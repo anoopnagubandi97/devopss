@@ -29,3 +29,23 @@ git log
 ls
 touch file3
 vim file3
+ls
+cat file3
+vim file3
+catfile3
+cat file3
+git status
+git add file3
+git commit -m "first commit" file3
+clear
+git log
+git status
+git add .
+git commit -m "second commit" .
+git status
+git remote add orgin https://github.com/anoopnagubandi97/devopss.git
+git push -u orgin master'
+git remote add orgin https://github.com/anoopnagubandi97/devopss.git
+clear
+git push -u origin master
+
